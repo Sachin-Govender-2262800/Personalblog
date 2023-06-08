@@ -1,0 +1,98 @@
+.aboutMe {
+    padding-top: 50px;
+    margin: 0;
+  }
+  
+  .aboutcoverImg{
+    margin-left: 225px;
+    width: 70vw;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+ }
+
+.aboutTitles{
+  
+    padding-top: 30px;
+    position: relative;
+        right: 50px; 
+        text-align: center;
+        margin-bottom: 25px;
+}
+ 
+.aboutImg{
+    margin-left: 10px;
+    width: 300px;
+    height: 400px;
+    object-fit:cover;
+}
+
+.aboutrow{
+    align-items: center;
+    text-align: center;
+} 
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  .column {
+   
+    margin-bottom: 16px;
+    padding: 0 600px;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+  
+  .aboutcontainer {
+    align-items: center;
+    justify-content: center;
+    padding: 0 16px;
+  }
+  
+  .aboutcontainer::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+  .aboutbutton {
+    margin-top: 20px;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .aboutbutton:hover {
+    background-color: #555;
+  }
+  
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }

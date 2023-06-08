@@ -1,0 +1,27 @@
+.home{
+    display: flex;
+    
+}
+
+.bloglinks{
+ 
+    
+        display: flex;
+        width:40%;
+        height:500px;
+        position: relative;
+        left: 50px; 
+    
+}
+
+.bloglinks2{
+    
+    display: flex;
+    width:40%;
+    height:500px;
+	position: relative;
+    top: 600px;
+    right:700px; 
+    
+    }
+    

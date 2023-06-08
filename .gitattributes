@@ -1,0 +1,7 @@
+*.mp4:
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.mp4: filter=lfs diff=lfs merge=lfs -text
+*.mp4:
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.mp4: filter=lfs diff=lfs merge=lfs -text
+*.mp4:
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
