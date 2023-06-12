@@ -1,4 +1,5 @@
 import "./header.css"
+import SA from '../../Assets/Websites/SA.PNG'
 
 export default function Header() {
   return (
@@ -9,7 +10,7 @@ export default function Header() {
           
 
           </div>
-          <img className="headerImg"src="https://www.benoitproperties.com/wp-content/uploads/2022/08/london-header-1.png" alt="" />
+          <img className="headerImg"src={SA} alt="" />
     </div>
   )
 }

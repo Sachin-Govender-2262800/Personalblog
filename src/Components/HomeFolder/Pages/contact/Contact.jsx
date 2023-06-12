@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from "../../../header/Header"
 import SachDrawimg from '../../../../Assets/MyOwnArt/Sachin.png'
+import ContactImg from '../../../../Assets/Websites/contact.jpg'
 
 import "./contact.css"
 
@@ -15,7 +16,7 @@ export default function Contact() {
     
     <img 
         className = "contactcoverImg"
-        src ="https://1.bp.blogspot.com/-iCnFX7eWVjs/XR9NQutHXcI/AAAAAAAAJ9k/ISWH3UXgJF8QJdsV6P9wh3agzOwOF_aYgCLcBGAs/s1600/cat-1285634_1920.png" 
+        src ={ContactImg}
         alt=""/>
 
 <div className='contactTitles' >

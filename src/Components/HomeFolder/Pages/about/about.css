@@ -70,7 +70,7 @@
   }
   
   .title {
-    color: grey;
+    color: #F9F9F9;
   }
   
   .aboutbutton {
@@ -95,4 +95,23 @@
       width: 100%;
       display: block;
     }
+  }
+
+  .refrences{
+    padding-top: 25px;
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .refrences h2{
+    padding-bottom: 10px;
+    margin: 0;
+    font-size: 25px;
+  }
+
+  .refrences p{
+    padding-top: 6px;
+    font-size: 18px;
+    
   }

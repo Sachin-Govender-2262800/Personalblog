@@ -2,6 +2,7 @@ import React from 'react'
 import Header from "../../../header/Header"
 import "./about.css"
 import Me from '../../../../Assets/MyOwnArt/Me.jpg'
+import MeWall from '../../../../Assets/Websites/Me.jpg'
 
 import {Link} from "react-router-dom"
 
@@ -14,7 +15,7 @@ export default function Contact() {
       
     <img 
         className = "aboutcoverImg"
-        src ="https://1.bp.blogspot.com/-iCnFX7eWVjs/XR9NQutHXcI/AAAAAAAAJ9k/ISWH3UXgJF8QJdsV6P9wh3agzOwOF_aYgCLcBGAs/s1600/cat-1285634_1920.png" 
+        src ={MeWall} 
         alt=""/>
 
 <div className="aboutTitles">
@@ -30,14 +31,25 @@ export default function Contact() {
         <h2>Sachin Govender</h2>
       
         <p class="title">WIT's Graduate with BA in Digital Arts with Honors</p>
-        <br/>
         <p>I am a motivated and hardworking graduate from the University of Witwatersrand.
            My specialization is in Interactive Media and Animation, with an interest in Game Development, Web Design, Marketing
-            and Quality Assurance.I have also obtained 3 Professional Certificates in Performance Testing and LoadRunner. I enjoy learning new skills and seek to improve my skillset where possible .</p>
+            and Quality Assurance.I have also obtained 3 Professional Certificates in Performance Testing and LoadRunner. 
+            I enjoy learning new skills and seek to improve my skillset where possible .</p>
         
-        <button  class="aboutbutton" >Contact</button>
+           
       </div>
     </div>
+    <br/>
+    <div className = "refrences">
+    <h2>Website Refrences</h2>
+  
+    <p> <a href="https://fonts.google.com/specimen/Marcellus+SC?query=Arc"> Fonts acquired from </a></p>
+        <p> <a href="https://fontawesome.com/account/personal-info?landing=kits"> Icons acquired from </a></p>
+        <p> <a href="https://wallpaperaccess.com/johannesburg"> Joburg City Image acquired from</a></p>
+        <p> <a href="https://4kwallpapers.com/black-dark/be-yourself-be-you-inspirational-quotes-dark-background-1486.html "> About Me Image acquired from</a></p>
+        <p> <a href="https://www.wallpaperflare.com/person-s-right-hand-wallpaper-finger-search-magnifying-glass-wallpaper-zbyba"> Contact Image acquired from</a></p>
+      
+        </div>
   </div>
 
 
