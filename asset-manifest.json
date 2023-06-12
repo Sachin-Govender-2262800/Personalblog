@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Personalblog/static/css/main.e47e93c9.css",
-    "main.js": "/Personalblog/static/js/main.85ac86d4.js",
+    "main.css": "/Personalblog/static/css/main.21981f02.css",
+    "main.js": "/Personalblog/static/js/main.c9648963.js",
     "static/media/sas.png": "/Personalblog/static/media/sas.6951d333406fe7079aa9.png",
+    "static/media/Nightwing.png": "/Personalblog/static/media/Nightwing.8c24ce8055574698110b.png",
     "static/media/owen2.png": "/Personalblog/static/media/owen2.376506430f0c35d7a4b4.png",
     "static/media/NoFear.png": "/Personalblog/static/media/NoFear.6c1585dc3dddd3cdf2a3.png",
     "static/media/3rdDraft.PNG": "/Personalblog/static/media/3rdDraft.37e1194041d5fb05930b.PNG",
@@ -23,14 +24,15 @@
     "static/media/hate.png": "/Personalblog/static/media/hate.2ab03402b40d608984c3.png",
     "static/media/Sachin.png": "/Personalblog/static/media/Sachin.ff25cb7c0360d0def8b6.png",
     "static/media/FirstPersonGame.PNG": "/Personalblog/static/media/FirstPersonGame.87d6da67d31475c16ab2.PNG",
-    "static/media/Me.jpg": "/Personalblog/static/media/Me.3305447381ee9ac33abe.jpg",
+    "static/media/Me.jpg": "/Personalblog/static/media/Me.81d865e19b22e649d7e3.jpg",
     "static/media/platformer.PNG": "/Personalblog/static/media/platformer.539902adff02a1c7d1e5.PNG",
     "static/media/TatKoi.png": "/Personalblog/static/media/TatKoi.ea1d432b717f9c6c4fd5.png",
     "static/media/First.PNG": "/Personalblog/static/media/First.8a1a19923cedebb3d5d7.PNG",
     "static/media/scream2.PNG": "/Personalblog/static/media/scream2.0612491f724388c4cb4f.PNG",
+    "static/media/SA.PNG": "/Personalblog/static/media/SA.25546a5f1dd42ac82a05.PNG",
     "static/media/sun.png": "/Personalblog/static/media/sun.a2da0d2049703a2b97a3.png",
-    "static/media/sims.PNG": "/Personalblog/static/media/sims.733abb14b4acc6e2820f.PNG",
     "static/media/mobilegame.PNG": "/Personalblog/static/media/mobilegame.735ebe518614009c5dd1.PNG",
+    "static/media/sims.PNG": "/Personalblog/static/media/sims.6668662affaa614b98bb.PNG",
     "static/media/zombieTwine.PNG": "/Personalblog/static/media/zombieTwine.9feddcd18270d7987807.PNG",
     "static/media/billiards.PNG": "/Personalblog/static/media/billiards.b12c7ae2db4d6b81b209.PNG",
     "static/media/ballwithlegs.PNG": "/Personalblog/static/media/ballwithlegs.5c49ab407bd7201f5845.PNG",
@@ -43,12 +45,13 @@
     "static/media/OwlLenz.PNG": "/Personalblog/static/media/OwlLenz.140c1e8b1f80698bec64.PNG",
     "static/media/3rdDraft2.PNG": "/Personalblog/static/media/3rdDraft2.d1e25739e01e0a521250.PNG",
     "static/media/2nd.PNG": "/Personalblog/static/media/2nd.3e9ed16837baae3762d7.PNG",
+    "static/media/contact.jpg": "/Personalblog/static/media/contact.0e1a0d2ff729d008dba2.jpg",
     "index.html": "/Personalblog/index.html",
-    "main.e47e93c9.css.map": "/Personalblog/static/css/main.e47e93c9.css.map",
-    "main.85ac86d4.js.map": "/Personalblog/static/js/main.85ac86d4.js.map"
+    "main.21981f02.css.map": "/Personalblog/static/css/main.21981f02.css.map",
+    "main.c9648963.js.map": "/Personalblog/static/js/main.c9648963.js.map"
   },
   "entrypoints": [
-    "static/css/main.e47e93c9.css",
-    "static/js/main.85ac86d4.js"
+    "static/css/main.21981f02.css",
+    "static/js/main.c9648963.js"
   ]
 }
