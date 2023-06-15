@@ -21,7 +21,7 @@ export default function Post() {
            
         </div>
         <p className = "postDescription">
-        This is a page that is filled with all the Animations I have created while studying Animation at Wits. 
+        This page showcases a compilation of the animations I have crafted during my tenure as a student at Wits University.
              </p>
     </div>
   )

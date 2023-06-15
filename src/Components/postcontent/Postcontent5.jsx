@@ -19,7 +19,12 @@ export default function Postcontent5() {
 </div>
 
 <div class="row">
-  <div class="leftcolumn">
+<div class="aboutpage">
+    
+  
+    <p>All the drawings presented on this page were created using the open-source drawing software called Krita. 
+      Among them are commissioned artworks for others, as well as personal tattoo ideas that I intend to have inked on my own body.</p>
+  </div>
     <div class="card">
       <h2>No Fear No More</h2>
    
@@ -61,25 +66,14 @@ export default function Postcontent5() {
 
 
   </div>
-  <div class="rightcolumn">
-    <div class="card">
-    
-      <img className="headerImg"src={fearno} alt="" />
-      <p>All these drawings were created on the open source drawing software known as Krita. Some of which were for others to get done and others are tattoo ideas that I will
-        get on myself. </p>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <img className="headerImg"src={jojo} alt="" />
-      <img className="headerImg"src={bcup} alt="" />
-      <img className="headerImg"src={sun} alt="" />
-      <img className="headerImg"src={Koi} alt="" />
-    </div>
   
-  </div>
+  
+    
+  
+  
 </div>
 
       
-    </div>
+  
   )
 }

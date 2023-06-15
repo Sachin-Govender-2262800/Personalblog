@@ -54,7 +54,18 @@
     height: 400px;
   }
   
-  /* Add a card effect for articles */
+  .aboutpage {
+    text-align: center;
+    background-color: #346299;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .aboutpage p {
+    padding: 25px;
+    font-size: 18px;
+  }
+
   .card {
     text-align: center;
     background-color: #346299;

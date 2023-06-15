@@ -21,7 +21,7 @@ export default function Post3() {
         
         </div>
         <p className = "postDescription">
-        This is a page that is filled with all the Websites that I created while studying Interactive Media at Wits. 
+        This page presents an array of websites that I have crafted during my tenure as a student at Wits University.
              </p>
     </div>
   )

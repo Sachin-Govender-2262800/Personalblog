@@ -21,7 +21,7 @@ export default function Post5() {
             
         </div>
         <p className = "postDescription">
-        This is a page that is filled with all the Art works I have made in my free time. 
+        This page showcases a compilation of art pieces that I have passionately created during my leisure hours.
         
              </p>
     </div>

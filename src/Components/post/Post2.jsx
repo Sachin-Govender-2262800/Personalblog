@@ -21,7 +21,7 @@ export default function Post2() {
            
         </div>
         <p className = "postDescription">
-        This is a page that is filled with all the Game works that I have created while studying digital arts at Wits. 
+        This page encompasses a collection of the game projects I have developed during my academic pursuit of digital arts at Wits University.
              </p>
     </div>
   )

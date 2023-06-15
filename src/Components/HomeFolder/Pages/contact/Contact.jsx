@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from "../../../header/Header"
+import {Link} from "react-router-dom"
 import SachDrawimg from '../../../../Assets/MyOwnArt/Sachin.png'
 import ContactImg from '../../../../Assets/Websites/contact.jpg'
 
@@ -43,7 +44,9 @@ export default function Contact() {
         
   <tr>
     <td>Email Address</td>
-    <td>sachingovender5@gmail.com</td>
+    
+    <td>< a href = "mailto: sachingovender5@gmail.com">sachingovender5@gmail.com
+        </a></td>
   </tr>
   <tr>
     <td>Phone Number</td>
@@ -51,7 +54,7 @@ export default function Contact() {
   </tr>
   <tr>
     <td>Linkdin</td>
-    <td>https://www.linkedin.com/in/sachin-govender-9a5b3b248/</td>
+    <td> <Link to="https://www.linkedin.com/in/sachin-govender-9a5b3b248/"> https://www.linkedin.com/in/sachin-govender-9a5b3b248/ </Link></td>
   </tr>
 </table>
 

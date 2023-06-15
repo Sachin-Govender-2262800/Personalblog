@@ -21,7 +21,15 @@ export default function Postcontent6() {
 </div>
 
 <div class="row">
-  <div class="leftcolumn">
+
+<div class="aboutpage">
+ 
+ 
+ <p>All the drawings showcased here were executed with the primary objective of enhancing my artistic abilities. 
+  Presented below are a select few drawings that were not part of any specific project but were created as part of my ongoing artistic development. These were 
+  all created in the open-source drawing software known as Krita. </p>
+</div>
+
     <div class="card">
       <h2>Leauge of Legends Inspired Drawing</h2>   
       <img className="ImgContent"src={Azir} alt="" />
@@ -78,27 +86,14 @@ export default function Postcontent6() {
 
 
   </div>
-  <div class="rightcolumn">
-    <div class="card">
  
-      <img className="headerImg"src={Azir} alt="" />
-      <p>All the drawings here were done with the intention of improving my art and here are just a few of the drawings that I could find, that weren't involved in a project.</p>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <img className="headerImg"src={rhi} alt="" />
-      <img className="headerImg"src={Me} alt="" />
-      <img className="headerImg"src={Night} alt="" />
-      <img className="headerImg"src={Dress} alt="" />
-      <img className="headerImg"src={soul} alt="" />
-      <img className="headerImg"src={game} alt="" />
-      <img className="headerImg"src={asas} alt="" />
-    </div>
+    
+    
    
-  </div>
+
 </div>
 
       
-    </div>
+   
   )
 }

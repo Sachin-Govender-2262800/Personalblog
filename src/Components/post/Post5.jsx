@@ -21,7 +21,7 @@ export default function Post5() {
         
         </div>
         <p className = "postDescription">
-        This is a page that is filled with all the Tattoo designs I have made. 
+        This page exhibits an assortment of tattoo designs that I have crafted.
              </p>
     </div>
   )

@@ -20,12 +20,23 @@ export default function Postcontent3() {
 </div>
 
 <div class="row">
-  <div class="leftcolumn">
+
+<div class="aboutpage">
+     
+    
+     <p>
+This page is devoted to presenting the websites I have crafted during my tenure as a student at WIT's. 
+These websites were developed using JS, CSS, and React within the Visual Studio Code environment.</p>
+   </div>
+  
+
+
     <div class="card">
       <h2>Personal Blog on a fictional character</h2>
       <h5>Created on the 4th of July 2021</h5>
       <img className="headerImg"src={First} alt="" />
-      <Link to="https://sachin-govender-2262800.github.io/WorkingAssignment1/" >https://sachin-govender-2262800.github.io/WorkingAssignment1/</Link>
+      <p>Link can be found here: 
+      <Link to="https://sachin-govender-2262800.github.io/WorkingAssignment1/" >https://sachin-govender-2262800.github.io/WorkingAssignment1/</Link></p>
       <p>This website was designed to be a personal blog about an Assassin who aimed to teach her readers about the Internet and Internet Safety. The main point of the website
         was to discuss certain topics set by the lecturers and to talk about these topics as if we were the character that we had created. </p>
     </div>
@@ -37,7 +48,8 @@ export default function Postcontent3() {
       <h2>Video Game Stat Website</h2>
       <h5>Created on the 6th of December 2021</h5>
       <img className="headerImg"src={Second} alt="" />
-      <Link to="https://sachin-govender-2262800.github.io/WSOA3029A-2262800/" >https://sachin-govender-2262800.github.io/WSOA3029A-2262800/</Link>
+      <p>Link can be found here: 
+      <Link to="https://sachin-govender-2262800.github.io/WSOA3029A-2262800/" >https://sachin-govender-2262800.github.io/WSOA3029A-2262800/</Link></p>
       <p>We were tasked with creating a website that would make use of different APIs that would display different stats, using these stats we were then tasked with 
         creating different graphs. I decided to use information from different Video Game Esport Communities in order to create different graphs. Unfortunately due to 
         the APIs being changed or removed not all the graphs have remained working as they had once done. 
@@ -50,9 +62,11 @@ export default function Postcontent3() {
       <h2>Creating Art Through a Website</h2>
       <h5>First created on the 22nd of April 2022, Changed on the 27th of June 2022</h5>
       <img className="headerImg"src={Third} alt="" />
-      <Link to="https://sachin-govender-2262800.github.io/Assignment1/#/" >https://sachin-govender-2262800.github.io/Assignment1/#/</Link>
+      <p>Link can be found here: 
+      <Link to="https://sachin-govender-2262800.github.io/Assignment1/#/" >https://sachin-govender-2262800.github.io/Assignment1/#/</Link></p>
       <img className="headerImg"src={Third2} alt="" />
-      <Link to=" https://sachin-govender-2262800.github.io/WSOA3018A_2262800/" > https://sachin-govender-2262800.github.io/WSOA3018A_2262800/</Link>
+      <p>Link can be found here: 
+      <Link to=" https://sachin-govender-2262800.github.io/WSOA3018A_2262800/" > https://sachin-govender-2262800.github.io/WSOA3018A_2262800/</Link></p>
       <p>This was the last website I created. We were tasked with creating art through the web and including it as either being a part of the entire website itself.
         The first iteration of this website was to be a gaming and Movie website that would provide information about them while creating 
         art through the web. I then scraped the website and decided to create a website dedicated to animals taking inspiration from artist JJSmooth44 and his series 
@@ -65,21 +79,11 @@ export default function Postcontent3() {
 
     
   </div>
-  <div class="rightcolumn">
-    <div class="card">
-     
-      <img className="headerImg"src={First2} alt="" />
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <img className="headerImg"src={Second2} alt="" />
-      <img className="headerImg"src={Third3} alt="" />
+  
     
-    </div>
     
-  </div>
-</div>
+
+
 
       
     </div>

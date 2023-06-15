@@ -7,9 +7,9 @@ export default function TopBar() {
   return (
     <div className="top"> 
         <div className ="topLeft">
-             <Link to="https://www.instagram.com/assachins_creed/">
-        <i className="topIcon fa-brands fa-instagram"></i>
-        </Link>
+          {/*   <Link to="https://www.instagram.com/assachins_creed/">
+        <i className="topIcon fa-brands fa-instagram"></i> 
+        </Link>*/}
 
         <a href = "tel:0828066954">
         <i className="topIcon fa-solid fa-phone"></i>

@@ -21,7 +21,7 @@ export default function Post4() {
             
         </div>
         <p className = "postDescription">
-        This is a page that is filled with all the Commissioned works I have made. 
+        This page showcases a selection of commissioned works that I have created.
              </p>
     </div>
   )

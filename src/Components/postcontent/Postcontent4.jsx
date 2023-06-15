@@ -18,7 +18,14 @@ export default function Postcontent4() {
 </div>
 
 <div class="row">
-  <div class="leftcolumn">
+<div class="aboutpage">
+
+
+      <p>These drawings were specially commissioned by friends, who entrusted me with their creation in exchange for financial compensation and exposure.
+         They were created using the open-source drawing software known as Krita, employing digital techniques.
+      </p>
+    </div>
+    
     <div class="card">
       <h2>Animal Skull</h2>
      
@@ -55,25 +62,13 @@ export default function Postcontent4() {
 
 
   </div>
-  <div class="rightcolumn">
-    <div class="card">
-
-      <img className="headerImg"src={Skull} alt="" />
-      <p>These drawings were drawings that friends had tasked me with creating for them in return for both money and exposure. These drawings were 
-        created using an open-source drawing software known as Krita and were drawn digitally.
-      </p>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <img className="headerImg"src={Jay} alt="" />
-      <img className="headerImg"src={Owen} alt="" />
-      <img className="headerImg"src={carjol} alt="" />
-    </div>
+  
+    
    
-  </div>
+ 
 </div>
 
       
-    </div>
+ 
   )
 }

@@ -27,18 +27,35 @@ export default function Postcontent2() {
 
 
 <div class="row">
-  <div class="leftcolumn">
+
+  
+<div class="aboutpage">
+     
+    
+    
+     <p>All the digital games that were made were created in Unity, except for the Twine games, Those games were created in a software known as Twine.
+       When creating these games we would usually have a time limit of 2 weeks sometimes a week to create the games. In often times there were new elements that had 
+       to be learned meaning art as well as code would oftentimes be rushed. This ,however, was done to show how we would work under time constraints. All my games were 
+       made in time and I had enjoyed creating all of them.
+
+     </p>
+   </div>
+
 <div class="card">
       <h2>Unique version of Pong </h2>
       <h5>Title description, Dec 7, 2017</h5>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/9tYtIo3fJSw" title="YouTube video player" 
       frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
        web-share" allowfullscreen></iframe>
-      <p>The first game that was tasked by University was to create a unique version of the old game known as Pong. The idea I had created was to create a 2 player 
-      pong game where there were 2 paddles on each side that would consistently change size making the game harder. As with all the digital games made on this page currently 
+      <p>The first game that was tasked by the University was to create a unique version of the old game known as Pong. The idea I had created was to create a 2 player 
+      pong game where there were 2 paddles on each side that would consistently change size making the game harder. As with all the digital games made on this page 
+      currently 
       (except for the Twine games), It was made in Unity.
        </p>
   </div>
+
+
+
 
     <div class="card">
       <h2>Unique Billiard Game</h2>
@@ -92,7 +109,7 @@ export default function Postcontent2() {
       <iframe width="560" height="315" src="https://www.youtube.com/embed/e1OvLvXRpmc" title="YouTube video player" 
       frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
        allowfullscreen></iframe>
-      <p>This game was made with the task of not being a shooter, as in the title of an alternate FPS game. I decided to create a maze and puzzle game.
+      <p>This game was made with the task of not being a shooter, as in the title it had to be an alternate FPS game. I decided to create a maze and puzzle game.
         Players would need to go through the maze to find the centre where they can escape. The puzzle game required players to move blocks in order
          to progress through the levels.
 
@@ -178,41 +195,17 @@ export default function Postcontent2() {
 
       </p>
     </div>
-  </div>
 
 
 
 
 
-  <div class="rightcolumn">
-    <div class="card">
-     
-      <img className="headerImg"src={ping} alt="" />
-    
-      <p>All the digital games that were made were created in Unity, except for the Twine games, Those games were created in a software known as Twine.
-        When creating these games we would usually have a time limit of 3-2 weeks sometimes a week to create the games. In often times there were new elements that had 
-        to be learned meaning art as well as code would oftentimes be rushed. This however was done to show how we would work under time constraints. All my games were 
-        made in time and I had enjoyed creating all of them.
 
-      </p>
-    </div>
 
-    <div class="card">
-      <h3>Popular Post</h3>
-      <img className="headerImg"src={billards} alt="" />
-      <img className="headerImg"src={aWolf} alt="" />
-      <img className="headerImg"src={Phone} alt="" />
-      <img className="headerImg"src={platg} alt="" />
-      <img className="headerImg"src={firstP} alt="" />
-      <img className="headerImg"src={KeyExam} alt="" />
-      <img className="headerImg"src={SwingAssassin} alt="" />
-      <img className="headerImg"src={Blambo} alt="" />
-      <img className="headerImg"src={ZomDoc} alt="" />
-      <img className="headerImg"src={OwlUni} alt="" />
-      <img className="headerImg"src={simT} alt="" />
-    </div>
 
-  </div>
+
+
+
 </div>
 
       

@@ -41,7 +41,7 @@ export default function Contact() {
     </div>
     <br/>
     <div className = "refrences">
-    <h2>Website Refrences</h2>
+    <h2>Website References</h2>
   
     <p> <a href="https://fonts.google.com/specimen/Marcellus+SC?query=Arc"> Fonts acquired from </a></p>
         <p> <a href="https://fontawesome.com/account/personal-info?landing=kits"> Icons acquired from </a></p>

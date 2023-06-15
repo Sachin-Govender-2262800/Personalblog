@@ -37,9 +37,8 @@ export default function Home() {
         
        
     </div>
-    <div className="refrences">
-      
-    </div>
+  
+  
     
     </>
   )
