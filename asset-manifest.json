@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Personalblog/static/css/main.21981f02.css",
-    "main.js": "/Personalblog/static/js/main.c9648963.js",
+    "main.css": "/Personalblog/static/css/main.b2059f27.css",
+    "main.js": "/Personalblog/static/js/main.2718d85a.js",
     "static/media/sas.png": "/Personalblog/static/media/sas.6951d333406fe7079aa9.png",
     "static/media/Nightwing.png": "/Personalblog/static/media/Nightwing.8c24ce8055574698110b.png",
     "static/media/owen2.png": "/Personalblog/static/media/owen2.376506430f0c35d7a4b4.png",
@@ -47,11 +47,11 @@
     "static/media/2nd.PNG": "/Personalblog/static/media/2nd.3e9ed16837baae3762d7.PNG",
     "static/media/contact.jpg": "/Personalblog/static/media/contact.0e1a0d2ff729d008dba2.jpg",
     "index.html": "/Personalblog/index.html",
-    "main.21981f02.css.map": "/Personalblog/static/css/main.21981f02.css.map",
-    "main.c9648963.js.map": "/Personalblog/static/js/main.c9648963.js.map"
+    "main.b2059f27.css.map": "/Personalblog/static/css/main.b2059f27.css.map",
+    "main.2718d85a.js.map": "/Personalblog/static/js/main.2718d85a.js.map"
   },
   "entrypoints": [
-    "static/css/main.21981f02.css",
-    "static/js/main.c9648963.js"
+    "static/css/main.b2059f27.css",
+    "static/js/main.2718d85a.js"
   ]
 }
